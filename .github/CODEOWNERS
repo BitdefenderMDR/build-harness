@@ -1,0 +1,6 @@
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# @mdr-di-soc-automation-engineers will be requested for
+# review when someone opens a pull request.
+* @Bitdefender/mdr-di-soc-automation-engineers
+* @BitdefenderMDR/mdr-di-soc-automation-engineers
